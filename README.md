@@ -2,7 +2,7 @@
 
 **Computer Science @ UNC Charlotte** | AI & Robotics Concentration | Math Minor
 
-I'm interested in building real systems with AI/ML—from reinforcement learning experiments to developer tools that actually ship. Currently exploring how to bridge research concepts with practical, deployable implementations.
+I'm interested in building real systems with AI/ML—from reinforcement learning experiments to developer tools. Currently exploring how to bridge research concepts with practical, deployable implementations.
 
 ## What I'm Working On
 
